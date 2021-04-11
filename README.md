@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruvil Dave</h1>
-- 🔭 I’m currently working on **ReactJS**
+
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Machine Learning**
 
